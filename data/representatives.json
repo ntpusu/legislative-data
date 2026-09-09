@@ -721,6 +721,14 @@
       "title": "非基於會內職務出任（永續創新國際學院）",
       "department": "",
       "note": ""
+    },
+    {
+      "group": "三峽校區",
+      "id": "",
+      "name": "唐彩綾",
+      "title": "祕書長兼國際部部長",
+      "department": "",
+      "note": ""
     }
   ],
   "assignments": [
@@ -963,7 +971,12 @@
       "id": "48",
       "meetingName": "行政會議",
       "representativeName": "謝明勳"
+    },
+    {
+      "id": "49",
+      "meetingName": "國際事務會議",
+      "representativeName": "唐彩綾"
     }
   ],
-  "lastUpdated": "2026-09-09T01:30:02.172Z"
+  "lastUpdated": "2026-09-09T23:40:07.254Z"
 }
