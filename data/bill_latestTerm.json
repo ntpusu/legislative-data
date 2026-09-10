@@ -1,5 +1,5 @@
 {
-  "cachedAt": "2026-09-08T20:39:03.536Z",
+  "cachedAt": "2026-09-10T20:22:33.658Z",
   "data": [
     {
       "rowIndex": 376,
@@ -353,6 +353,25 @@
         "https://drive.google.com/open?id=1TRFBMcnHkvQP_ClSNlcEPg2Vl4zramVR"
       ],
       "scheduledSession": "27屆第1次常會"
+    },
+    {
+      "rowIndex": 395,
+      "billNumber": "",
+      "term": 27,
+      "serialNumber": null,
+      "submittedAt": "2026/9/10 下午 11:13:54",
+      "proposingEntity": "三峽校區學生會 秘書處",
+      "proposerName": "謝明勳",
+      "contactName": "唐彩綾",
+      "billType": "施政報告",
+      "subject": "有關本會115學年度第1期間施政方針，敬請貴會聽取報告。",
+      "description": "一、依《學生議會組織職權行使法》第21條第1款規定辦理。\n二、檢附施政方針如附件一（.docx）、附件二（.pdf）。",
+      "proposedAction": "提送貴會報告並公布之。",
+      "attachments": [
+        "https://drive.google.com/open?id=1nmzhzFufPx2bkCah6okd85K1gjZ-Mzpc",
+        "https://drive.google.com/open?id=1Zkcla8YyAhLqjTbTwH3BQYgduQsZ-9oR"
+      ],
+      "scheduledSession": ""
     }
   ]
 }
