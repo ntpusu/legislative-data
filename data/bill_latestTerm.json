@@ -1,5 +1,5 @@
 {
-  "cachedAt": "2026-09-10T20:22:33.658Z",
+  "cachedAt": "2026-09-11T11:23:14.384Z",
   "data": [
     {
       "rowIndex": 376,
@@ -332,7 +332,7 @@
       "attachments": [
         "https://docs.google.com/spreadsheets/d/1YyduX-_Y8dbeImbsk11s7XtYzvQX2t3V/edit?usp=drive_link&ouid=111956381691113417844&rtpof=true&sd=true"
       ],
-      "scheduledSession": "26屆第1次財務委員會；27屆第1次常會"
+      "scheduledSession": "26屆第1次財務委員會(審議通過）；27屆第1次常會"
     },
     {
       "rowIndex": 394,
@@ -356,9 +356,9 @@
     },
     {
       "rowIndex": 395,
-      "billNumber": "",
+      "billNumber": "27屆北大峽議字第20號",
       "term": 27,
-      "serialNumber": null,
+      "serialNumber": 20,
       "submittedAt": "2026/9/10 下午 11:13:54",
       "proposingEntity": "三峽校區學生會 秘書處",
       "proposerName": "謝明勳",
@@ -371,7 +371,27 @@
         "https://drive.google.com/open?id=1nmzhzFufPx2bkCah6okd85K1gjZ-Mzpc",
         "https://drive.google.com/open?id=1Zkcla8YyAhLqjTbTwH3BQYgduQsZ-9oR"
       ],
-      "scheduledSession": ""
+      "scheduledSession": "27屆第1次常會"
+    },
+    {
+      "rowIndex": 396,
+      "billNumber": "27屆北大峽議字第21號",
+      "term": 27,
+      "serialNumber": 21,
+      "submittedAt": "2026/9/11 下午 7:02:08",
+      "proposingEntity": "三峽校區學生會 會長副會長",
+      "proposerName": "謝明勳",
+      "contactName": "唐彩綾",
+      "billType": "人事案",
+      "subject": "有關任命本會臺灣學生聯合會會員校代表，敬請貴會審議。",
+      "description": "一、由於屆次更換，臺學聯秘書處於9月1日已開始調查更換會員校之名單，爰依據《臺灣學生聯合會組織章程施行法》第6條第一項規定，由會長任命，並於十日內報請學生議會追認之。 \n二、任命議長傅冠紘為代表、會長謝明勳為候補代表。\n三、檢附被提名人人事簡歷表如附件一及附件二。\n四、人事派令如附件三。",
+      "proposedAction": "敬請貴會追認。",
+      "attachments": [
+        "https://drive.google.com/open?id=12av4DVLIS-xNFvFf0raewJztktwOa-lh",
+        "https://drive.google.com/open?id=11-6emnkLZjOhmL124wnh2UReNWOcAqXR",
+        "https://drive.google.com/open?id=1bawYfc92T06JbwA1kHu9CAPzHjnmCTcM"
+      ],
+      "scheduledSession": "27屆第1次常會"
     }
   ]
 }
