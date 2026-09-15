@@ -1,5 +1,5 @@
 {
-  "cachedAt": "2026-09-11T11:23:14.384Z",
+  "cachedAt": "2026-09-15T20:49:06.408Z",
   "data": [
     {
       "rowIndex": 376,
@@ -327,10 +327,11 @@
       "contactName": "賴郁雯",
       "billType": "預算案",
       "subject": "有關三峽校區學生會115學年度第1期間總預算案，敬請貴會審議。",
-      "description": "一、依《預算暨決算辦法》規定辦理。\n二、115學年度第1期間總預算書如附件（附件一為xlsx檔）",
+      "description": "一、依《預算暨決算辦法》規定辦理。\n二、115學年度第1期間總預算書如附件（附件一為xlsx檔）\n三、秘書處115/09/15編註：財務委員會審查通過版本如附件二 .xlsx 檔案。",
       "proposedAction": "提送貴會審議通過後，由會長公布之。",
       "attachments": [
-        "https://docs.google.com/spreadsheets/d/1YyduX-_Y8dbeImbsk11s7XtYzvQX2t3V/edit?usp=drive_link&ouid=111956381691113417844&rtpof=true&sd=true"
+        "https://docs.google.com/spreadsheets/d/1YyduX-_Y8dbeImbsk11s7XtYzvQX2t3V/edit?usp=drive_link&ouid=111956381691113417844&rtpof=true&sd=true",
+        "https://docs.google.com/spreadsheets/d/1tgsMYjuEMicCR66-I5z983xn1y884sVs/edit?usp=sharing&ouid=111956381691113417844&rtpof=true&sd=true"
       ],
       "scheduledSession": "26屆第1次財務委員會(審議通過）；27屆第1次常會"
     },
