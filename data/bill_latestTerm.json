@@ -1,5 +1,5 @@
 {
-  "cachedAt": "2026-09-18T09:27:39.062Z",
+  "cachedAt": "2026-09-22T20:49:43.513Z",
   "data": [
     {
       "rowIndex": 376,
@@ -394,6 +394,25 @@
         "https://drive.google.com/open?id=1bawYfc92T06JbwA1kHu9CAPzHjnmCTcM"
       ],
       "scheduledSession": "27屆第1次常會"
+    },
+    {
+      "rowIndex": 397,
+      "billNumber": "27屆北大峽議字第22號",
+      "term": 27,
+      "serialNumber": 22,
+      "submittedAt": "2026/9/22 下午 12:56:29",
+      "proposingEntity": "本會議員",
+      "proposerName": "傅冠紘、楊志英、楊秉融、吳承叡、陳先懷、張權耀",
+      "contactName": "陳先懷",
+      "billType": "糾正案",
+      "subject": "本會議員陳先懷、傅冠紘、吳承叡等六人，鑑於三峽校區選舉委員會及學生會於所司業務顯有違殆，爰依法提起糾正。是否有當？請公決案。",
+      "description": "一、依據學生議會組織職權行使法第35條辦理。\n二、三峽校區學生會選舉委員會以其函釋及委員會決議自行創設選舉門檻，並實質架空學生議會設立保障名額之意旨，顯有違誤，依法提起糾正。\n三、三峽校區學生會長年漠視選委會人數不足之困境，未嘗提名足額選舉委員，亦未思修正制度以符合實際人力資源運作，有違怠失，爰此一併糾正。\n四、糾正文稿如附件（附件一PDF）（附件二docx）。",
+      "proposedAction": "敬請法制委員會審議。",
+      "attachments": [
+        "https://drive.google.com/open?id=1EX5JQaNGjvPb8mndGdvHFzNhDRONpxbN",
+        "https://drive.google.com/open?id=1EDQvYXXN-5xaaq1qC7H0nnhsgdoD0RUx"
+      ],
+      "scheduledSession": ""
     }
   ]
 }
