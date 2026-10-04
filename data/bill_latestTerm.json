@@ -1,5 +1,5 @@
 {
-  "cachedAt": "2026-09-28T22:54:06.117Z",
+  "cachedAt": "2026-10-04T20:49:29.950Z",
   "data": [
     {
       "rowIndex": 376,
@@ -413,6 +413,24 @@
         "https://drive.google.com/open?id=1EDQvYXXN-5xaaq1qC7H0nnhsgdoD0RUx"
       ],
       "scheduledSession": "27屆第2次常會"
+    },
+    {
+      "rowIndex": 398,
+      "billNumber": "",
+      "term": 27,
+      "serialNumber": null,
+      "submittedAt": "2026/10/5 上午 12:52:09",
+      "proposingEntity": "本會議員",
+      "proposerName": "陳先懷",
+      "contactName": "陳先懷",
+      "billType": "法律案",
+      "subject": "依三峽校區新設聯合辦公室如今翻新之情態，於搬運大型物件時多需仰賴貨車搬運，此支出未列於原定條例中，經評估實有增設該項目預算之需要，故提出該草案。\n再者，因特別預算施行間屆滿，為配合學生會第一次常會函請，因而延長之。",
+      "description": "一、草案如附件（附件一.docx）。",
+      "proposedAction": "敬請大會審議。",
+      "attachments": [
+        "https://drive.google.com/open?id=1341ankUvGd0UH3cDi2UnDu-JcoOtf4am"
+      ],
+      "scheduledSession": ""
     }
   ]
 }
