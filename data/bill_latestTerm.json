@@ -1,5 +1,5 @@
 {
-  "cachedAt": "2026-10-04T20:49:29.950Z",
+  "cachedAt": "2026-10-05T23:40:14.383Z",
   "data": [
     {
       "rowIndex": 376,
@@ -412,13 +412,13 @@
         "https://drive.google.com/open?id=1EX5JQaNGjvPb8mndGdvHFzNhDRONpxbN",
         "https://drive.google.com/open?id=1EDQvYXXN-5xaaq1qC7H0nnhsgdoD0RUx"
       ],
-      "scheduledSession": "27屆第2次常會"
+      "scheduledSession": "27屆第1次法制委員會；27屆第2次常會"
     },
     {
       "rowIndex": 398,
-      "billNumber": "",
+      "billNumber": "27屆北大峽議字第23號",
       "term": 27,
-      "serialNumber": null,
+      "serialNumber": 23,
       "submittedAt": "2026/10/5 上午 12:52:09",
       "proposingEntity": "本會議員",
       "proposerName": "陳先懷",
@@ -430,7 +430,7 @@
       "attachments": [
         "https://drive.google.com/open?id=1341ankUvGd0UH3cDi2UnDu-JcoOtf4am"
       ],
-      "scheduledSession": ""
+      "scheduledSession": "27屆第2次常會"
     }
   ]
 }
