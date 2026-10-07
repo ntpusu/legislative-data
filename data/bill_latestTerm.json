@@ -1,5 +1,5 @@
 {
-  "cachedAt": "2026-10-05T23:40:14.383Z",
+  "cachedAt": "2026-10-07T08:20:54.104Z",
   "data": [
     {
       "rowIndex": 376,
@@ -429,6 +429,67 @@
       "proposedAction": "敬請大會審議。",
       "attachments": [
         "https://drive.google.com/open?id=1341ankUvGd0UH3cDi2UnDu-JcoOtf4am"
+      ],
+      "scheduledSession": "27屆第2次常會"
+    },
+    {
+      "rowIndex": 399,
+      "billNumber": "27屆北大峽議字第24號",
+      "term": 27,
+      "serialNumber": 24,
+      "submittedAt": "2026/10/7 下午 1:46:02",
+      "proposingEntity": "三峽校區學生會 會長副會長",
+      "proposerName": "謝明勳",
+      "contactName": "唐彩綾",
+      "billType": "人事案",
+      "subject": "有關提名林佳誼、施宗佑等二人擔任本校性別平等委員會學生代表一案，提請貴會同意。",
+      "description": "一、依《國立臺北大學學生自治會三峽校區各級會議學生代表推派規則 》第二條第四項規定辦理。\n二、附件一~四為被提名人人事簡歷表。",
+      "proposedAction": "敬請貴會依職權審議。",
+      "attachments": [
+        "https://drive.google.com/open?id=1T-HxaNypWwh726l1bynaU6SsnZiP-o0Q",
+        "https://drive.google.com/open?id=1o-Ks3MnHpafjx9joNUUoZobLuCGhmsu3",
+        "https://drive.google.com/open?id=1QPCkqzlq0AQ7H5Ba8A2plX_6B9cVJAPw",
+        "https://drive.google.com/open?id=1AIlAgjclGGxT2_fkY7fpodSmGxae82s-"
+      ],
+      "scheduledSession": "27屆第2次常會"
+    },
+    {
+      "rowIndex": 400,
+      "billNumber": "27屆北大峽議字第25號",
+      "term": 27,
+      "serialNumber": 25,
+      "submittedAt": "2026/10/7 下午 1:56:09",
+      "proposingEntity": "三峽校區學生會 會長副會長",
+      "proposerName": "謝明勳",
+      "contactName": "唐彩綾",
+      "billType": "人事案",
+      "subject": "有關提名施宗佑、劉家愷等二人為學生法官，提請貴會審議。",
+      "description": "一、依學生法院組織法第11條第1項第1款規定，提名施宗佑、劉家愷等二人為學生法官。\n二、檢附被提名人人事簡歷表如附件（附件一、二為PDF; 附件三、四為DOCX）。",
+      "proposedAction": "提請貴會審議通過後，由會長任命之。",
+      "attachments": [
+        "https://drive.google.com/open?id=1zk8mlpu6UlohmSTFnkBo6nz0Sfsliy50",
+        "https://drive.google.com/open?id=1aN-Sh2TdmRPfY-zZwQNUTaA_ER14nhCF",
+        "https://drive.google.com/open?id=1sjtYO57bK1zk9JS0lC6xqc-nEtW0RyqG",
+        "https://drive.google.com/open?id=1QJnT1WD5J3p29yH0-0-9hMO1r9spOK9G"
+      ],
+      "scheduledSession": "27屆第2次常會"
+    },
+    {
+      "rowIndex": 401,
+      "billNumber": "27屆北大峽議字第26號",
+      "term": 27,
+      "serialNumber": 26,
+      "submittedAt": "2026/10/7 下午 2:14:35",
+      "proposingEntity": "三峽校區學生會 會長副會長",
+      "proposerName": "謝明勳",
+      "contactName": "唐彩綾",
+      "billType": "法律案",
+      "subject": "擬具「國立臺北大學學生自治會三峽校區聯合辦公空間管理條例草案」。敬請貴會審議。",
+      "description": "一、條文對照表如附件（附件一PDF、附件二DOCX）\n二、因應學生自治會聯合辦公空間啟用後，為規定本會辦公空間各場域之管理權責於學生會、學生議會及學生法院，故訂定本草案。",
+      "proposedAction": "大會通過後，咨請會長公布",
+      "attachments": [
+        "https://drive.google.com/open?id=1Z8B_9OJH9QehQRl7gsFiJbehGLctnRWN",
+        "https://drive.google.com/open?id=1ZILM7_NUaDYyjkhHHnuGjlYfEbnF58PT"
       ],
       "scheduledSession": "27屆第2次常會"
     }
