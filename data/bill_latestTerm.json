@@ -1,5 +1,5 @@
 {
-  "cachedAt": "2026-10-07T08:20:54.104Z",
+  "cachedAt": "2026-10-07T22:37:16.533Z",
   "data": [
     {
       "rowIndex": 376,
@@ -424,8 +424,8 @@
       "proposerName": "陳先懷",
       "contactName": "陳先懷",
       "billType": "法律案",
-      "subject": "依三峽校區新設聯合辦公室如今翻新之情態，於搬運大型物件時多需仰賴貨車搬運，此支出未列於原定條例中，經評估實有增設該項目預算之需要，故提出該草案。\n再者，因特別預算施行間屆滿，為配合學生會第一次常會函請，因而延長之。",
-      "description": "一、草案如附件（附件一.docx）。",
+      "subject": "本會議員陳先懷擬定「國立臺北大學學生自治會三峽校區新設聯合辦公空間設置特別條例第二條、第六條修正草案」。是否有當？請公決案。",
+      "description": "一、依三峽校區新設聯合辦公室如今翻新之情態，於搬運大型物件時多需仰賴貨車搬運，此支出未列於原定條例中，經評估實有增設該項目預算之需要，故提出該草案。\n再者，因特別預算施行間屆滿，為配合學生會第一次常會函請，因而延長之。\n二、草案如附件（附件一.docx）。",
       "proposedAction": "敬請大會審議。",
       "attachments": [
         "https://drive.google.com/open?id=1341ankUvGd0UH3cDi2UnDu-JcoOtf4am"
@@ -492,6 +492,47 @@
         "https://drive.google.com/open?id=1ZILM7_NUaDYyjkhHHnuGjlYfEbnF58PT"
       ],
       "scheduledSession": "27屆第2次常會"
+    },
+    {
+      "rowIndex": 402,
+      "billNumber": "",
+      "term": 27,
+      "serialNumber": null,
+      "submittedAt": "2026/10/7 下午 5:19:01",
+      "proposingEntity": "學生法院 書記處",
+      "proposerName": "周俊良",
+      "contactName": "俞建佑",
+      "billType": "決算案",
+      "subject": "學生法院114學年第2期間決算案",
+      "description": "附件一、本院決算案。附件二、本院存簿存摺資料。附件三、四、支出之收據。(附件一PDF、，附件二至四JPG)",
+      "proposedAction": "大會通過後，移送臺北校區學生議會審議",
+      "attachments": [
+        "https://drive.google.com/open?id=1yonrRUkQ0pEWe1vqtpfh91sdZ9TEq5YH",
+        "https://drive.google.com/open?id=122brMjB0doQOLMapapu1OCFuBAKwTVii",
+        "https://drive.google.com/open?id=1dc72gSvxZX0Eb_mYrPJkzMwXhLTq1M1Z",
+        "https://drive.google.com/open?id=1re28eD-b37WoKbkDDK0liCKdMFCndAy7"
+      ],
+      "scheduledSession": ""
+    },
+    {
+      "rowIndex": 403,
+      "billNumber": "",
+      "term": 27,
+      "serialNumber": null,
+      "submittedAt": "2026/10/7 下午 5:19:59",
+      "proposingEntity": "學生法院 書記處",
+      "proposerName": "周俊良",
+      "contactName": "俞建佑",
+      "billType": "預算案",
+      "subject": "學生法院115年度第1期間預算案",
+      "description": "附件一(XLSX)、二(PDF)為本院本期間預算案，附件三(PDF)為本院上學年度法定預算。",
+      "proposedAction": "大會通過後，移送臺北校區學生議會審議。",
+      "attachments": [
+        "https://drive.google.com/open?id=1eR8Hr43k0r0CfQ5x1KXJQe3nMCYzpq20",
+        "https://drive.google.com/open?id=1aRMQhTHu4t4BBt6HTf4Bphaw9rMphhCO",
+        "https://drive.google.com/open?id=1xgMKhuIErbnSOdgYrh7JGds8pa6Ln3R_"
+      ],
+      "scheduledSession": ""
     }
   ]
 }
