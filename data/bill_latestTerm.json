@@ -1,5 +1,5 @@
 {
-  "cachedAt": "2026-10-19T21:57:19.049Z",
+  "cachedAt": "2026-10-20T01:37:20.261Z",
   "data": [
     {
       "rowIndex": 376,
@@ -536,28 +536,28 @@
     },
     {
       "rowIndex": 404,
-      "billNumber": "",
+      "billNumber": "27屆北大峽議字第29號",
       "term": 27,
-      "serialNumber": null,
+      "serialNumber": 29,
       "submittedAt": "2026/10/19 下午 9:32:42",
       "proposingEntity": "三峽校區學生會 活動部",
       "proposerName": "謝明勳",
       "contactName": "陳于庭",
       "billType": "專案報告",
       "subject": "擬請審議本會主辦之「國立臺北大學77週年校慶系列活動」（含「77校慶校園脫口秀－校死我了」及「77校慶校園氣墊樂園」）追加預算案，提請討論",
-      "description": "一、校慶系列活動專案企畫書，二、校慶系列活動追加預算表；辭呈如附件(附件一PDF、附件二XLSX)",
+      "description": "一、校慶系列活動專案企畫書，二、校慶系列活動追加預算表(附件一PDF、附件二XLSX)",
       "proposedAction": "大會通過後，咨請會長公布",
       "attachments": [
         "https://drive.google.com/open?id=1apcvpakritYIjFW75ruDUonPck1A_Naq",
-        "https://drive.google.com/open?id=1rI1sLoY-GM9XXNCN0vLPhnvKpLfFHEAd"
+        "https://docs.google.com/spreadsheets/d/1w3-7UvYaKro881P0ibTWY9LJJ17bSjen/edit?usp=sharing&ouid=111956381691113417844&rtpof=true&sd=true"
       ],
-      "scheduledSession": ""
+      "scheduledSession": "27屆第3次臨時會"
     },
     {
       "rowIndex": 405,
-      "billNumber": "",
+      "billNumber": "27屆北大峽議字第30號",
       "term": 27,
-      "serialNumber": null,
+      "serialNumber": 30,
       "submittedAt": "2026/10/20 上午 1:54:38",
       "proposingEntity": "三峽校區學生會 公關部",
       "proposerName": "謝明勳",
@@ -570,7 +570,7 @@
         "https://drive.google.com/open?id=17fmCKKalqx3HN7K_dsQh9PxRALSBkTo9",
         "https://drive.google.com/open?id=1NQR60kfM6gEV0J4HEg0xfe7TwEDPnpD6"
       ],
-      "scheduledSession": ""
+      "scheduledSession": "27屆第3次臨時會"
     }
   ]
 }
