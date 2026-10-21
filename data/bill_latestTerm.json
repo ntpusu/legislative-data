@@ -1,5 +1,5 @@
 {
-  "cachedAt": "2026-10-20T01:44:44.709Z",
+  "cachedAt": "2026-10-21T21:11:33.133Z",
   "data": [
     {
       "rowIndex": 376,
@@ -590,6 +590,25 @@
         "https://drive.google.com/open?id=1CsK3FAM6nTROZeQyPfQ3rLEfEriaB-jT"
       ],
       "scheduledSession": "27屆第3次臨時會"
+    },
+    {
+      "rowIndex": 407,
+      "billNumber": "",
+      "term": 27,
+      "serialNumber": null,
+      "submittedAt": "2026/10/21 下午 11:26:49",
+      "proposingEntity": "三峽校區學生會 會長副會長",
+      "proposerName": "謝明勳",
+      "contactName": "唐彩綾",
+      "billType": "法律案",
+      "subject": "三峽校區學生會擬具「國立臺北大學學生自治資訊公開法修正草案」，敬請貴會審議。",
+      "description": "一、為順應本會建置新會網，此次修法明定本會各機關使用網站時的重要準則，並建立資訊維護責任，以及將帳號安全及網站年度交接機制法制化。\n二、修正條文對照表如附件（附件一PDF、附件二DOCX）",
+      "proposedAction": "敬請貴會依職權審議。",
+      "attachments": [
+        "https://drive.google.com/open?id=1m2pU0gzkY3zNOphXev4C1E0K13SPZeC_",
+        "https://drive.google.com/open?id=1U5njeT6RwRWoV7A2TTcykdKLYDhBNcpd"
+      ],
+      "scheduledSession": ""
     }
   ]
 }
