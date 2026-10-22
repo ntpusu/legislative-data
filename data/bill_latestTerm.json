@@ -1,5 +1,5 @@
 {
-  "cachedAt": "2026-10-21T21:11:33.133Z",
+  "cachedAt": "2026-10-22T13:36:54.752Z",
   "data": [
     {
       "rowIndex": 376,
@@ -593,9 +593,9 @@
     },
     {
       "rowIndex": 407,
-      "billNumber": "",
+      "billNumber": "27屆北大峽議字第32號",
       "term": 27,
-      "serialNumber": null,
+      "serialNumber": 32,
       "submittedAt": "2026/10/21 下午 11:26:49",
       "proposingEntity": "三峽校區學生會 會長副會長",
       "proposerName": "謝明勳",
@@ -608,7 +608,7 @@
         "https://drive.google.com/open?id=1m2pU0gzkY3zNOphXev4C1E0K13SPZeC_",
         "https://drive.google.com/open?id=1U5njeT6RwRWoV7A2TTcykdKLYDhBNcpd"
       ],
-      "scheduledSession": ""
+      "scheduledSession": "27屆第3次臨時會"
     }
   ]
 }
