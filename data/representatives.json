@@ -623,7 +623,7 @@
       "id": "",
       "name": "謝明勳",
       "title": "三峽校區會長",
-      "department": "",
+      "department": "行政3",
       "note": ""
     },
     {
@@ -631,7 +631,7 @@
       "id": "",
       "name": "塗祉涵",
       "title": "三峽校區副會長",
-      "department": "",
+      "department": "行政3",
       "note": ""
     },
     {
@@ -639,7 +639,7 @@
       "id": "",
       "name": "傅冠紘",
       "title": "三峽校區學生議員（公共事務學院選舉區）",
-      "department": "",
+      "department": "行政3",
       "note": ""
     },
     {
@@ -663,7 +663,7 @@
       "id": "",
       "name": "吳承叡",
       "title": "三峽校區學生議員（法律學院選舉區）",
-      "department": "",
+      "department": "司法4",
       "note": ""
     },
     {
@@ -671,7 +671,7 @@
       "id": "",
       "name": "楊秉融",
       "title": "三峽校區學生議員（社會科學學院選舉區）",
-      "department": "",
+      "department": "行政4",
       "note": ""
     },
     {
@@ -687,7 +687,7 @@
       "id": "",
       "name": "陳先懷",
       "title": "三峽校區學生議員（社會科學學院選舉區）",
-      "department": "",
+      "department": "社工2",
       "note": ""
     },
     {
@@ -711,7 +711,7 @@
       "id": "",
       "name": "王禹翔",
       "title": "三峽校區學生議員（公共事務學院選舉區）",
-      "department": "",
+      "department": "行政2",
       "note": ""
     },
     {
@@ -744,6 +744,22 @@
       "name": "唐彩綾",
       "title": "祕書長兼國際部部長",
       "department": "",
+      "note": ""
+    },
+    {
+      "group": "三峽校區",
+      "id": "",
+      "name": "楊子婷",
+      "title": "三峽校區學生會學術學權部部員",
+      "department": "社工1",
+      "note": ""
+    },
+    {
+      "group": "三峽校區",
+      "id": "",
+      "name": "林佳誼",
+      "title": "三峽校區學生會學術學權部部員",
+      "department": "不動3",
       "note": ""
     }
   ],
@@ -992,7 +1008,127 @@
       "id": "49",
       "meetingName": "國際事務會議",
       "representativeName": "唐彩綾"
+    },
+    {
+      "id": "50",
+      "meetingName": "校務會議議案審查小組",
+      "representativeName": "謝明勳"
+    },
+    {
+      "id": "51",
+      "meetingName": "校務發展委員會",
+      "representativeName": "謝明勳"
+    },
+    {
+      "id": "52",
+      "meetingName": "校務基金管理委員會",
+      "representativeName": "吳憶祖"
+    },
+    {
+      "id": "53",
+      "meetingName": "教務會議",
+      "representativeName": "謝明勳"
+    },
+    {
+      "id": "54",
+      "meetingName": "學生事務會議",
+      "representativeName": "謝明勳"
+    },
+    {
+      "id": "55",
+      "meetingName": "總務會議",
+      "representativeName": "謝明勳"
+    },
+    {
+      "id": "56",
+      "meetingName": "體育室室務會議",
+      "representativeName": "謝明勳"
+    },
+    {
+      "id": "57",
+      "meetingName": "性別平等教育委員會",
+      "representativeName": "林佳誼"
+    },
+    {
+      "id": "58",
+      "meetingName": "性別平等教育委員會",
+      "representativeName": "施宗佑"
+    },
+    {
+      "id": "59",
+      "meetingName": "學生申訴評議委員會",
+      "representativeName": "塗祉涵"
+    },
+    {
+      "id": "60",
+      "meetingName": "衛生膳食委員會",
+      "representativeName": "塗祉涵"
+    },
+    {
+      "id": "61",
+      "meetingName": "衛生膳食委員會",
+      "representativeName": "謝明勳"
+    },
+    {
+      "id": "62",
+      "meetingName": "空間分配及管理委員會",
+      "representativeName": "謝明勳"
+    },
+    {
+      "id": "63",
+      "meetingName": "學生社團經費補助審查會",
+      "representativeName": "謝明勳"
+    },
+    {
+      "id": "64",
+      "meetingName": "通識教育中心課程委員會",
+      "representativeName": "塗祉涵"
+    },
+    {
+      "id": "65",
+      "meetingName": "通識教育委員會",
+      "representativeName": "塗祉涵"
+    },
+    {
+      "id": "66",
+      "meetingName": "學生輔導工作暨校園自我傷害三級預防委員會",
+      "representativeName": "謝明勳"
+    },
+    {
+      "id": "68",
+      "meetingName": "語言中心課程委員會",
+      "representativeName": "楊子婷"
+    },
+    {
+      "id": "70",
+      "meetingName": "校園節約能源推動小組會議",
+      "representativeName": "謝明勳"
+    },
+    {
+      "id": "71",
+      "meetingName": "永續發展推動委員會",
+      "representativeName": "謝明勳"
+    },
+    {
+      "id": "72",
+      "meetingName": "校園霸凌防制委員會",
+      "representativeName": "塗祉涵"
+    },
+    {
+      "id": "73",
+      "meetingName": "校園安全暨災害防救檢討會",
+      "representativeName": "謝明勳"
+    },
+    {
+      "id": "74",
+      "meetingName": "高等教育深耕計畫國際志工海外服務獎助審查小組",
+      "representativeName": "唐彩綾"
+    },
+    {
+      "id": "75",
+      "meetingName": "亞德客有美公益活動經費補助審查委員會",
+      "representativeName": "塗祉涵"
     }
   ],
-  "lastUpdated": "2026-09-30T00:53:31.949Z"
+  "lastUpdated": "2026-11-04T01:45:25.022Z"
 }
