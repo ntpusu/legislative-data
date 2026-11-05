@@ -1,5 +1,5 @@
 {
-  "cachedAt": "2026-11-04T23:08:44.270Z",
+  "cachedAt": "2026-11-05T23:13:08.853Z",
   "data": [
     {
       "rowIndex": 376,
@@ -611,6 +611,25 @@
         "https://docs.google.com/document/d/1_Sbv2WEc4zul1q1kzXI51zX4BnRwBxxU/edit?usp=drive_link&ouid=111956381691113417844&rtpof=true&sd=true"
       ],
       "scheduledSession": "27屆第3次臨時會"
+    },
+    {
+      "rowIndex": 408,
+      "billNumber": "",
+      "term": 27,
+      "serialNumber": null,
+      "submittedAt": "2026/11/5 下午 10:53:27",
+      "proposingEntity": "本會議員",
+      "proposerName": "吳承叡",
+      "contactName": "吳承叡",
+      "billType": "議會執行款使用",
+      "subject": "辦理多元文化假公聽會，就邀請外校講師費用，請領議會執行款款項新台幣3000元整",
+      "description": "一、多元文化假公聽會企畫書如附件一  二、公聽會討論要點以及多元文化假草案版本如附件二",
+      "proposedAction": "大會通過後，咨請議會允許本議員使用議會執行款新台幣3000元整",
+      "attachments": [
+        "https://drive.google.com/open?id=1hxwES88yc9mxHz5b-zDLgz8Wi-Yq8rxn",
+        "https://drive.google.com/open?id=1XseBaT1ViTwjx2D699Hdg101631jDHPS"
+      ],
+      "scheduledSession": ""
     }
   ]
 }
