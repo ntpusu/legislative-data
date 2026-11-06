@@ -1,5 +1,5 @@
 {
-  "cachedAt": "2026-11-05T23:13:08.853Z",
+  "cachedAt": "2026-11-06T14:52:51.737Z",
   "data": [
     {
       "rowIndex": 376,
@@ -614,9 +614,9 @@
     },
     {
       "rowIndex": 408,
-      "billNumber": "",
+      "billNumber": "27屆北大峽議字第33號",
       "term": 27,
-      "serialNumber": null,
+      "serialNumber": 33,
       "submittedAt": "2026/11/5 下午 10:53:27",
       "proposingEntity": "本會議員",
       "proposerName": "吳承叡",
@@ -628,6 +628,44 @@
       "attachments": [
         "https://drive.google.com/open?id=1hxwES88yc9mxHz5b-zDLgz8Wi-Yq8rxn",
         "https://drive.google.com/open?id=1XseBaT1ViTwjx2D699Hdg101631jDHPS"
+      ],
+      "scheduledSession": "27屆第4次常會"
+    },
+    {
+      "rowIndex": 409,
+      "billNumber": "27屆北大峽議字第34號",
+      "term": 27,
+      "serialNumber": 34,
+      "submittedAt": "2026/11/6 下午 5:58:52",
+      "proposingEntity": "三峽校區學生會 會長副會長",
+      "proposerName": "謝明勳",
+      "contactName": "唐彩綾",
+      "billType": "預算案",
+      "subject": "有關本會115學年度第1期間追加預算案，敬請貴會審議。",
+      "description": "一、依《預算暨決算辦法》規定辦理。\n二、活動部提出追加預算期入部份1-1-7-3 科目「校慶活動」及追加預算期出部份1-2-7-1 科目「社團博覽會暨社團聯展」；財務部提出追加預算期出部份1-2-3-3 科目「官方帳號管理」，上述費用皆有於附件一、二裡附上詳細金額，請參閱附件說明。\n三、追加預算書如附件一（XLSX）、附件二（PDF)所示",
+      "proposedAction": "敬請貴會審議後，咨請會長公布之。",
+      "attachments": [
+        "https://drive.google.com/open?id=16_xCgKijd2r0XYrW8BnG6izzZk9jg5Q1",
+        "https://drive.google.com/open?id=1s59BV4HVozuTeKWDWQoh8xPI-c88wmqv"
+      ],
+      "scheduledSession": "27屆第3次臨時會"
+    },
+    {
+      "rowIndex": 410,
+      "billNumber": "27屆北大峽議字第35號",
+      "term": 27,
+      "serialNumber": 35,
+      "submittedAt": "2026/11/6 下午 7:34:56",
+      "proposingEntity": "三峽校區學生會 會長副會長",
+      "proposerName": "謝明勳",
+      "contactName": "唐彩綾",
+      "billType": "法律案",
+      "subject": "三峽校區學生會擬具「國立臺北大學學生自治會三峽校區學生會組織法部分條文修正草案」，敬請貴會審議。",
+      "description": "一、爰依貴會法制委員會提出之建議報告，本會採納部分建議並隨即進行法規修正，遂提出\n本草案主要修正內容如下:\n\n(一) 資訊部裁撤: 因應近年來資訊人才稀缺，直至今年招工狀況仍不樂觀，因此本草案將其裁撤後，併入秘書處轄下，更名為「秘書處資訊小組」，所負責業務性質不變。\n\n(二) 學術部裁撤: 因應貴會建議報告所提 ，整合類似業務職掌，避免業務高度重疊，並提升部門人力使用效率」，本草案將其裁撤後，併入學生權益部，學生權益部更名為「學生權益暨學術部」，學術部原所負責業務性質不變，部內分工則保留該部門首長自主「判斷餘地」，依專長分配學術或學權工作。\n\n(三) 此外，為與我國中央政府體系主要政務官員職稱一致，統一用語，故將原條文之第3條第3項、第4條第2項及第4條第4項中「副部長」修正為「次長」。\n\n(四) 本次條文修正草案未採納建議報告中，將公關部與新聞部合併之提議，係因任務分工上仍存有一定差距，且上述兩個部門今年招收人數樂觀，目前運作良好，尚不生合併考量與決策。\n\n二、修正條文對照表如附件（附件一PDF、附件二DOCX）\n\n三、修正前原條文為以下網址，請參閱：\nhttps://ntpusu.ntpu.edu.tw/p/405-1015-1592,c228.php?Lang=zh-tw",
+      "proposedAction": "敬請貴會依職權審議。",
+      "attachments": [
+        "https://drive.google.com/open?id=1I-RRhODUnwBrimBue4lfB2C_8F_sKym1",
+        "https://drive.google.com/open?id=1j2bujRuBzwNoqyGBQRA0xe9lQlY5MlX8"
       ],
       "scheduledSession": ""
     }
