@@ -1,5 +1,5 @@
 {
-  "cachedAt": "2026-11-07T02:58:30.441Z",
+  "cachedAt": "2026-11-07T21:23:19.975Z",
   "data": [
     {
       "rowIndex": 376,
@@ -668,6 +668,59 @@
         "https://drive.google.com/open?id=1j2bujRuBzwNoqyGBQRA0xe9lQlY5MlX8"
       ],
       "scheduledSession": "27屆第3次常會"
+    },
+    {
+      "rowIndex": 411,
+      "billNumber": "",
+      "term": 27,
+      "serialNumber": null,
+      "submittedAt": "2026/11/7 下午 9:46:17",
+      "proposingEntity": "本會議員",
+      "proposerName": "胡瑀倢、王禹翔",
+      "contactName": "胡瑀倢",
+      "billType": "預算案",
+      "subject": "胡瑀倢學生議員「公共事務學院學生議員選民座談會」計畫執行款申請案，提請審議",
+      "description": "一、為傾聽公共事務學院學生對校園公共事務與學生權益之意見，擬舉辦公共事務學院選民座談會，依「國立臺北大學學生自治會學生議員計畫執行款設置法」規定申請計畫執行款新台幣2000元整，以支應活動茶水飲品費用。  \n二、檢附學生議員計畫執行款申請表如附件一。",
+      "proposedAction": "審核通過後，依規定核撥計畫執行款",
+      "attachments": [
+        "https://drive.google.com/open?id=1tCAdOQiDxeFPw12ROf9SAgtpD8asNADU"
+      ],
+      "scheduledSession": ""
+    },
+    {
+      "rowIndex": 412,
+      "billNumber": "",
+      "term": 27,
+      "serialNumber": null,
+      "submittedAt": "2026/11/7 下午 11:24:36",
+      "proposingEntity": "本會議員",
+      "proposerName": "陳先懷",
+      "contactName": "陳先懷",
+      "billType": "法律案",
+      "subject": "本會議員陳先懷提案廢止「 國立臺北大學學生自治會總會長榮典授予辦法」、「國立臺北大學學生自治會總會選舉委員會組織法」、「國立臺北大學學生自治會總會組織職權行使法」是否有當？請公決案。",
+      "description": "因應總會裁撤，總會相關組織章程以及總會長之授予辦法之相關法律已失去其法律效果，故提案廢止之。",
+      "proposedAction": "敬請大會審議。",
+      "attachments": [],
+      "scheduledSession": ""
+    },
+    {
+      "rowIndex": 413,
+      "billNumber": "",
+      "term": 27,
+      "serialNumber": null,
+      "submittedAt": "2026/11/8 上午 1:18:31",
+      "proposingEntity": "本會議員",
+      "proposerName": "陳先懷",
+      "contactName": "陳先懷",
+      "billType": "法律案",
+      "subject": "本會議員陳先懷擬具「國立臺北大學學生自治會三峽校區榮譽條例草案」，敬請大會審議。",
+      "description": "一、依國立臺北大學學生自治會組織章程第十八條，特制定此條例。二、詳如附件（附件一PDF、附件二DOCX）",
+      "proposedAction": "敬請大會審議。",
+      "attachments": [
+        "https://drive.google.com/open?id=1wmNdS4iknnEzXakX2hjFAyo_Jo78wr1c",
+        "https://drive.google.com/open?id=1C0DUWJOqGYCGWzL7mbgma8rxipveURa0"
+      ],
+      "scheduledSession": ""
     }
   ]
 }
