@@ -1,5 +1,5 @@
 {
-  "cachedAt": "2026-11-08T02:14:05.295Z",
+  "cachedAt": "2026-11-08T21:38:12.662Z",
   "data": [
     {
       "rowIndex": 376,
@@ -721,6 +721,25 @@
         "https://drive.google.com/open?id=1C0DUWJOqGYCGWzL7mbgma8rxipveURa0"
       ],
       "scheduledSession": "27屆第3次常會"
+    },
+    {
+      "rowIndex": 414,
+      "billNumber": "",
+      "term": 27,
+      "serialNumber": null,
+      "submittedAt": "2026/11/8 下午 5:58:23",
+      "proposingEntity": "本會議員",
+      "proposerName": "施定宇",
+      "contactName": "施定宇",
+      "billType": "法律案",
+      "subject": "本會議員施定宇擬具「2026 組織章程全文修正配套修正法案」是否有當？請公決案。",
+      "description": "一、說明：為因應組織章程修法後多部法律的授權條號變更的修法需求，又兼顧議事效率，爰此以綜合法案形式一併提出修法。\n二、相關文件如附件（附件一PDF、附件二DOCX）。",
+      "proposedAction": "敬請大會審議。",
+      "attachments": [
+        "https://drive.google.com/open?id=1pr-FdqF18wh8mupTmUeuHRWg1rpJdj9L",
+        "https://drive.google.com/open?id=1Qdopq2oPiH-l73iAVMSRo45tplbOEfN_"
+      ],
+      "scheduledSession": ""
     }
   ]
 }
