@@ -1,5 +1,5 @@
 {
-  "cachedAt": "2026-11-07T21:23:19.975Z",
+  "cachedAt": "2026-11-08T02:14:05.295Z",
   "data": [
     {
       "rowIndex": 376,
@@ -671,9 +671,9 @@
     },
     {
       "rowIndex": 411,
-      "billNumber": "",
+      "billNumber": "27屆北大峽議字第36號",
       "term": 27,
-      "serialNumber": null,
+      "serialNumber": 36,
       "submittedAt": "2026/11/7 下午 9:46:17",
       "proposingEntity": "本會議員",
       "proposerName": "胡瑀倢、王禹翔",
@@ -685,13 +685,13 @@
       "attachments": [
         "https://drive.google.com/open?id=1tCAdOQiDxeFPw12ROf9SAgtpD8asNADU"
       ],
-      "scheduledSession": ""
+      "scheduledSession": "27屆第3次常會"
     },
     {
       "rowIndex": 412,
-      "billNumber": "",
+      "billNumber": "27屆北大峽議字第37號",
       "term": 27,
-      "serialNumber": null,
+      "serialNumber": 37,
       "submittedAt": "2026/11/7 下午 11:24:36",
       "proposingEntity": "本會議員",
       "proposerName": "陳先懷",
@@ -701,13 +701,13 @@
       "description": "因應總會裁撤，總會相關組織章程以及總會長之授予辦法之相關法律已失去其法律效果，故提案廢止之。",
       "proposedAction": "敬請大會審議。",
       "attachments": [],
-      "scheduledSession": ""
+      "scheduledSession": "27屆第3次常會"
     },
     {
       "rowIndex": 413,
-      "billNumber": "",
+      "billNumber": "27屆北大峽議字第38號",
       "term": 27,
-      "serialNumber": null,
+      "serialNumber": 38,
       "submittedAt": "2026/11/8 上午 1:18:31",
       "proposingEntity": "本會議員",
       "proposerName": "陳先懷",
@@ -720,7 +720,7 @@
         "https://drive.google.com/open?id=1wmNdS4iknnEzXakX2hjFAyo_Jo78wr1c",
         "https://drive.google.com/open?id=1C0DUWJOqGYCGWzL7mbgma8rxipveURa0"
       ],
-      "scheduledSession": ""
+      "scheduledSession": "27屆第3次常會"
     }
   ]
 }
