@@ -1,5 +1,5 @@
 {
-  "cachedAt": "2026-11-08T21:38:12.662Z",
+  "cachedAt": "2026-11-10T01:07:39.626Z",
   "data": [
     {
       "rowIndex": 376,
@@ -613,25 +613,6 @@
       "scheduledSession": "27屆第3次臨時會"
     },
     {
-      "rowIndex": 408,
-      "billNumber": "27屆北大峽議字第33號",
-      "term": 27,
-      "serialNumber": 33,
-      "submittedAt": "2026/11/5 下午 10:53:27",
-      "proposingEntity": "本會議員",
-      "proposerName": "吳承叡",
-      "contactName": "吳承叡",
-      "billType": "議會執行款使用",
-      "subject": "辦理多元文化假公聽會，就邀請外校講師費用，請領議會執行款款項新台幣3000元整",
-      "description": "一、多元文化假公聽會企畫書如附件一  二、公聽會討論要點以及多元文化假草案版本如附件二",
-      "proposedAction": "大會通過後，咨請議會允許本議員使用議會執行款新台幣3000元整",
-      "attachments": [
-        "https://drive.google.com/open?id=1hxwES88yc9mxHz5b-zDLgz8Wi-Yq8rxn",
-        "https://drive.google.com/open?id=1XseBaT1ViTwjx2D699Hdg101631jDHPS"
-      ],
-      "scheduledSession": "27屆第3次常會"
-    },
-    {
       "rowIndex": 409,
       "billNumber": "27屆北大峽議字第34號",
       "term": 27,
@@ -666,24 +647,6 @@
       "attachments": [
         "https://drive.google.com/open?id=1I-RRhODUnwBrimBue4lfB2C_8F_sKym1",
         "https://drive.google.com/open?id=1j2bujRuBzwNoqyGBQRA0xe9lQlY5MlX8"
-      ],
-      "scheduledSession": "27屆第3次常會"
-    },
-    {
-      "rowIndex": 411,
-      "billNumber": "27屆北大峽議字第36號",
-      "term": 27,
-      "serialNumber": 36,
-      "submittedAt": "2026/11/7 下午 9:46:17",
-      "proposingEntity": "本會議員",
-      "proposerName": "胡瑀倢、王禹翔",
-      "contactName": "胡瑀倢",
-      "billType": "預算案",
-      "subject": "胡瑀倢學生議員「公共事務學院學生議員選民座談會」計畫執行款申請案，提請審議",
-      "description": "一、為傾聽公共事務學院學生對校園公共事務與學生權益之意見，擬舉辦公共事務學院選民座談會，依「國立臺北大學學生自治會學生議員計畫執行款設置法」規定申請計畫執行款新台幣2000元整，以支應活動茶水飲品費用。  \n二、檢附學生議員計畫執行款申請表如附件一。",
-      "proposedAction": "審核通過後，依規定核撥計畫執行款",
-      "attachments": [
-        "https://drive.google.com/open?id=1tCAdOQiDxeFPw12ROf9SAgtpD8asNADU"
       ],
       "scheduledSession": "27屆第3次常會"
     },
@@ -724,9 +687,9 @@
     },
     {
       "rowIndex": 414,
-      "billNumber": "",
+      "billNumber": "27屆北大峽議字第39號",
       "term": 27,
-      "serialNumber": null,
+      "serialNumber": 39,
       "submittedAt": "2026/11/8 下午 5:58:23",
       "proposingEntity": "本會議員",
       "proposerName": "施定宇",
@@ -739,7 +702,7 @@
         "https://drive.google.com/open?id=1pr-FdqF18wh8mupTmUeuHRWg1rpJdj9L",
         "https://drive.google.com/open?id=1Qdopq2oPiH-l73iAVMSRo45tplbOEfN_"
       ],
-      "scheduledSession": ""
+      "scheduledSession": "27屆第3次常會"
     }
   ]
 }
