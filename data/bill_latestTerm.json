@@ -1,5 +1,5 @@
 {
-  "cachedAt": "2026-11-10T01:07:39.626Z",
+  "cachedAt": "2026-11-11T23:59:03.947Z",
   "data": [
     {
       "rowIndex": 376,
@@ -703,6 +703,60 @@
         "https://drive.google.com/open?id=1Qdopq2oPiH-l73iAVMSRo45tplbOEfN_"
       ],
       "scheduledSession": "27屆第3次常會"
+    },
+    {
+      "rowIndex": 415,
+      "billNumber": "",
+      "term": 27,
+      "serialNumber": null,
+      "submittedAt": "2026/11/11 下午 11:48:57",
+      "proposingEntity": "三峽校區學生會 選舉委員會",
+      "proposerName": "謝明勳",
+      "contactName": "周政翰",
+      "billType": "法律案",
+      "subject": "國立臺北大學學生自治會三峽校區選舉委員會擬具國立臺北大學學生自治會三峽校區選舉罷免法草案，請貴會審議。",
+      "description": "一、說明：礙於舊版國立臺北大學三峽校區選舉罷免法有部分條文重複、空泛、相關\n規範過於分散、當前窒礙難行、章節錯置等因素。在考量以修法途徑仍難以改\n善之情況下，為確保後人能花費較少的心力來依法辦理選務，故立新版國立臺\n北大學三峽校區選舉罷免法。\n\n二、請見附件",
+      "proposedAction": "大會通過後，咨請會長公布。",
+      "attachments": [
+        "https://drive.google.com/open?id=1TpFcLtNTv_QSUBHH4xk9BHR2ta4mKccL",
+        "https://drive.google.com/open?id=1E5pALg3bswWkONP54WoIOzTf6OngL-kG"
+      ],
+      "scheduledSession": ""
+    },
+    {
+      "rowIndex": 416,
+      "billNumber": "",
+      "term": 27,
+      "serialNumber": null,
+      "submittedAt": "2026/11/11 下午 11:51:58",
+      "proposingEntity": "三峽校區學生會 選舉委員會",
+      "proposerName": "謝明勳",
+      "contactName": "周政翰",
+      "billType": "法律案",
+      "subject": "國立臺北大學學生自治會三峽校區選舉委員會提議廢止國立台北大學學生自治會三峽校區選舉罷免法",
+      "description": "因選委會已擬具新版選罷法，故一併提議將舊版選罷法廢止之。",
+      "proposedAction": "大會通過後，咨請會長公布。",
+      "attachments": [],
+      "scheduledSession": ""
+    },
+    {
+      "rowIndex": 417,
+      "billNumber": "",
+      "term": 27,
+      "serialNumber": null,
+      "submittedAt": "2026/11/12 上午 12:02:27",
+      "proposingEntity": "三峽校區學生會 選舉委員會",
+      "proposerName": "謝明勳",
+      "contactName": "周政翰",
+      "billType": "法律案",
+      "subject": "國立臺北大學學生自治會三峽校區選舉委員會檢具受國立臺北大學學生自治會三峽校區選舉罷免法異動影響之法令修正草案，請貴會審議",
+      "description": "一、說明：因草案中所列之法令所援引之母法異動，連帶影響其必須進行內容調整。\n二、請見附件。",
+      "proposedAction": "大會通過後，咨請會長公布。",
+      "attachments": [
+        "https://drive.google.com/open?id=17nwUmjcmZOqqv3_VGenm3MVXFBQD0RO_",
+        "https://drive.google.com/open?id=1qX2dPyKM4VMf6BGJ9rvAO0pGtYyHrgv0"
+      ],
+      "scheduledSession": ""
     }
   ]
 }
