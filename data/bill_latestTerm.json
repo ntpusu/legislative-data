@@ -1,5 +1,5 @@
 {
-  "cachedAt": "2026-11-11T23:59:03.947Z",
+  "cachedAt": "2026-11-14T21:55:52.566Z",
   "data": [
     {
       "rowIndex": 376,
@@ -755,6 +755,25 @@
       "attachments": [
         "https://drive.google.com/open?id=17nwUmjcmZOqqv3_VGenm3MVXFBQD0RO_",
         "https://drive.google.com/open?id=1qX2dPyKM4VMf6BGJ9rvAO0pGtYyHrgv0"
+      ],
+      "scheduledSession": ""
+    },
+    {
+      "rowIndex": 418,
+      "billNumber": "",
+      "term": 27,
+      "serialNumber": null,
+      "submittedAt": "2026/11/14 下午 10:29:32",
+      "proposingEntity": "三峽校區學生會 選舉委員會",
+      "proposerName": "謝明勳",
+      "contactName": "周政翰",
+      "billType": "法律案",
+      "subject": "國立臺北大學學生自治會三峽校區選舉委員會檢具國立臺北大學學生自治會三峽校區公民投票法修法草案，請貴會審議",
+      "description": "一、說明：為與時俱進，故本次修法納入電子投票之制度，並且將檢舉、救濟程序予以補全。\n二、請見附件。",
+      "proposedAction": "大會通過後，咨請會長公布",
+      "attachments": [
+        "https://drive.google.com/open?id=1R8L_TXpKoc5YS1Jc-xEDLioNyCJigLrs",
+        "https://drive.google.com/open?id=1abcdI948aSTGbFfIDxe_WDpNgdj10DMq"
       ],
       "scheduledSession": ""
     }
