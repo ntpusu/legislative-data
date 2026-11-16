@@ -11,9 +11,6 @@ permissions:
   contents: write
 
 on:
-  schedule:
-    # 每天 18:00 (UTC) 執行，對應台灣時間早上 02:00
-    - cron: "0 18 * * *"
   workflow_dispatch: # 允許從介面手動觸發
     inputs:
       reason:

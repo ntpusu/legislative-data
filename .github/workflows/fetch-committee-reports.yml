@@ -11,10 +11,7 @@ permissions:
   contents: write
 
 on:
-  schedule:
-    - cron: '30 19 * * SUN'   # 每週日 UTC 19:30 (對應台灣時間週一 03:30)
-
-  workflow_dispatch:       # 允許在 GitHub web UI 手動觸發
+  workflow_dispatch: # 允許在 GitHub web UI 手動觸發
     inputs:
       reason:
         description: '觸發原因（選填，僅供紀錄）'
