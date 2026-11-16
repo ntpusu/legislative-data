@@ -52,6 +52,33 @@ jobs:
           BILLS_SHEET_GID: ${{ secrets.BILLS_SHEET_GID }}
         run: node scripts/fetchBills.mjs
 
+      - name: 判斷觸發原因
+        id: reason
+        # 外部輸入一律經由 env 傳入，不直接以 GitHub 運算式展開於 shell 中，避免指令注入
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+          INPUT_REASON: ${{ github.event.inputs.reason }}
+          TRIGGERED_BY: ${{ github.event.client_payload.triggered_by }}
+          TRIGGERED_BY_SITE: ${{ github.event.client_payload.triggered_by_site }}
+        run: |
+          if [ "$EVENT_NAME" = "schedule" ]; then
+            MSG="每日自動執行"
+          elif [ "$EVENT_NAME" = "repository_dispatch" ]; then
+            # triggered_by 由網站後台帶入，內容為登入單位簡稱或「管理員（暱稱）」
+            if [ -n "$TRIGGERED_BY" ]; then
+              MSG="由「${TRIGGERED_BY}」透過「${TRIGGERED_BY_SITE:-未知網站}」的 API 觸發"
+            else
+              MSG="透過 API 觸發（未註明觸發者）"
+            fi
+          elif [ -n "$INPUT_REASON" ]; then
+            MSG="使用者從介面手動更新，事由：「${INPUT_REASON}」"
+          else
+            MSG="使用者從介面手動更新"
+          fi
+          # 去除換行，避免破壞 GITHUB_OUTPUT 的格式
+          MSG=$(printf '%s' "$MSG" | tr -d '\r\n')
+          printf 'msg=%s\n' "$MSG" >> "$GITHUB_OUTPUT"
+
       - name: Check for changes and Commit
         id: auto-commit
         uses: stefanzweifel/git-auto-commit-action@v5
@@ -59,7 +86,7 @@ jobs:
           commit_message: |
             data(bills): 從 Google Sheets 同步議案資料
 
-            觸發原因：${{ github.event_name == 'schedule' && '每日自動執行' || github.event_name == 'repository_dispatch' && '透過 API 觸發' || github.event.inputs.reason != '' && format('使用者從介面手動更新，事由：「{0}」', github.event.inputs.reason) || '使用者從介面手動更新' }}
+            觸發原因：${{ steps.reason.outputs.msg }}
           commit_author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
           file_pattern: "data/*.json"
 
